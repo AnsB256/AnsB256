@@ -1,7 +1,7 @@
 # Hi there, I'm Oketayot Ansgar Obwona! 👋
 
 <p align="center">
-  <strong> **Full-Stack Developer | Open Source Enthusiast | Tech Writer** </strong>
+  <strong> Full-Stack Developer | Open Source Enthusiast | Tech Writer </strong>
 </p>
 
 <p align="center">
@@ -58,6 +58,5 @@ Here are the technologies, languages, and tools I use most frequently:
 If you want to talk about tech, argue about code formatting tabs vs. spaces, or just say hi, feel free to reach out!
 
 *   **Twitter/X:** [@AnsgarKeto](https://x.com/AnsgarKeto)
-*   **Discord:** `YourUsername#0000`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
